@@ -19,6 +19,8 @@ Frontend: https://invoice-frontend-v14l.onrender.com
 
 Backend:  https://invoice-backend-ao12.onrender.com
 
+gmail : seller@gmail.com
+password : seller123
 ---
  Run Locally :
 
